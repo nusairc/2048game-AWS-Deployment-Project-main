@@ -22,7 +22,7 @@ here we have small clone of 2048 game . The official app can also be found on th
 ## Important Note
 
 While you're welcome to explore and use the files provided, I strongly encourage you to understand the concepts behind it.
-Cloning the repo without understanding its workings may limit your ability to adapt and troubleshoot in different contexts. Take the time to explore the documentation of Docker and AWS. Experiment with different configurations, make changes, and observe the effects. Containerization and Cloud is a powerful approach, and it's essential to grasp the fundamentals before applying it to real-world scenarios
+Cloning the repo without understanding its workings may limit your ability to adapt and troubleshoot in different contexts. Take the time to explore the documentation of Docker and AWS ELastic Beanstalk and AWS IAM . Experiment with different configurations, make changes, and observe the effects. Containerization and Cloud is a powerful approach, and it's essential to grasp the fundamentals before applying it to real-world scenarios.
 
 ## How to Use:
 
