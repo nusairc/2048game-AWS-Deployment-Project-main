@@ -2,9 +2,7 @@
 
 here we have small clone of 2048 game . The official app can also be found on the [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) and [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
 
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/1175750/8614312/280e5dc2-26f1-11e5-9f1f-5891c3ca8b26.png" alt="Screenshot"/>
-</p>
+![Screenshot of Game](https://github.com/nusairc/2048game-AWS-Deployment-Project-main/raw/main/Screenshots/Game%20page.png)
 
 ### Project 
 
@@ -15,6 +13,11 @@ here we have small clone of 2048 game . The official app can also be found on th
     Docker Containerization: The game is containerized using a Docker file, making it portable and easy to deploy across different environments.
     AWS Elastic Beanstalk Deployment: Utilizing the Elastic Beanstalk service, the Docker container is seamlessly deployed on AWS, providing a scalable and managed environment.
     IAM Role Configuration: The project incorporates the creation and configuration of an IAM role, specifically 'aws-elasticbeanstalk-ec2-role,' ensuring secure and granular permissions for the EC2 instances running the game
+
+
+![Screenshot Environment](https://github.com/nusairc/2048game-AWS-Deployment-Project-main/blob/main/Screenshots/Screenshot%20%20Environment%20overview.png)
+![Screenshot of Deployment](https://github.com/nusairc/2048game-AWS-Deployment-Project-main/blob/main/Screenshots/Screenshot%20deployment.png)
+
 
 How to Use:
 
