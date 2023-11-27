@@ -15,7 +15,8 @@ here we have small clone of 2048 game . The official app can also be found on th
     IAM Role Configuration: The project incorporates the creation and configuration of an IAM role, specifically 'aws-elasticbeanstalk-ec2-role,' ensuring secure and granular permissions for the EC2 instances running the game
 
 
- Screenshots:
+ Screenshots of Environment and Deployment:
+ 
 ![Screenshot Environment](https://github.com/nusairc/2048game-AWS-Deployment-Project-main/blob/main/Screenshots/Screenshot%20%20Environment%20overview.png)
 ![Screenshot of Deployment](https://github.com/nusairc/2048game-AWS-Deployment-Project-main/blob/main/Screenshots/Screenshot%20deployment.png)
 
@@ -33,7 +34,7 @@ Cloning the repo without understanding its workings may limit your ability to ad
     AWS Deployment: Learn to configure AWS Elastic Beanstalk Web application deployment. configure & specify the required IAM roles.
 
 ## Cleaning Up
-Remember to stop or terminate your AWS resources after use to avoid unnecessary charges.
+Remember to stop or terminate your AWS resources after use to avoid unnecessary charges. Elastic Beanstalk can take under free tier , but the underlying infras may incur charges.
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. If you have any queries, suggestions, or feedback, please feel free to contact @nusairtech@gmail.com. I appreciate your interest and involvement in learning!
