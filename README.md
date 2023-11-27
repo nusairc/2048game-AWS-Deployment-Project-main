@@ -19,16 +19,20 @@ here we have small clone of 2048 game . The official app can also be found on th
 ![Screenshot Environment](https://github.com/nusairc/2048game-AWS-Deployment-Project-main/blob/main/Screenshots/Screenshot%20%20Environment%20overview.png)
 ![Screenshot of Deployment](https://github.com/nusairc/2048game-AWS-Deployment-Project-main/blob/main/Screenshots/Screenshot%20deployment.png)
 
+## Important Note
 
+While you're welcome to explore and use the files provided, I strongly encourage you to understand the concepts behind it.
+Cloning the repo without understanding its workings may limit your ability to adapt and troubleshoot in different contexts. Take the time to explore the documentation of Docker and AWS. Experiment with different configurations, make changes, and observe the effects. Containerization and Cloud is a powerful approach, and it's essential to grasp the fundamentals before applying it to real-world scenarios
 How to Use:
 
-    Clone the Repository: Get started by cloning this repository to your local machine. you can get the game code from this repo.
+    Clone the Repository: when you learned docker fundamentals , Get started by cloning this repository to your local machine. you can get the game code from this repo.
 
     Docker Build and Run: Try to Write and Execute the Docker file to build the image and run the Docker container locally.
 
     AWS Deployment: Learn to configure AWS Elastic Beanstalk Web application deployment. configure & specify the required IAM roles.
 
-## Contributing
-Changes and improvements are more than welcome! Feel free to fork and open a pull request.
-for any queries related to project reach me on nusairtech@gmail.com
+## Cleaning Up
+Remember to stop or terminate your AWS resources after use to avoid unnecessary charges.
 
+## Contributing
+Changes and improvements are more than welcome! Feel free to fork and open a pull request. If you have any queries, suggestions, or feedback, please feel free to contact @nusairtech@gmail.com. I appreciate your interest and involvement in learning!
