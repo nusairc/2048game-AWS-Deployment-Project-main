@@ -37,4 +37,4 @@ Cloning the repo without understanding its workings may limit your ability to ad
 Remember to stop or terminate your AWS resources after use to avoid unnecessary charges. Elastic Beanstalk can take under free tier , but the underlying infras may incur charges.
 
 ## Contributing
-Changes and improvements are more than welcome! Feel free to fork and open a pull request. If you have any queries, suggestions, or feedback, please feel free to contact @nusairtech@gmail.com. I appreciate your interest and involvement in learning!
+Changes and improvements are more than welcome! Feel free to fork and open a pull request. If you have any queries, suggestions, or feedback, please feel free to contact @nusairtech@gmail.com. I appreciate your interest and involvement in learning ! 
